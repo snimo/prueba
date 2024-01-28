@@ -5,6 +5,8 @@ function Person() {
 
       console.log("comentario 2");
 
+      console.log("");
+
 }
 
 
