@@ -15,7 +15,7 @@ function Person() {
 
       console.log("nueva linea");
 
-      console.log("estoy en la rama 1")
+      console.log("estoy en la rama 1")git
 
 }
 
