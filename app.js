@@ -11,6 +11,8 @@ function Person() {
 
       console.log("aaaaa");
 
+      console.log("aa1");
+
 }
 
 
