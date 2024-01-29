@@ -29,6 +29,8 @@ function Person() {
 
       console.log("mandar a la otra ")
 
+      console.log("tomando un cafe")
+
 
 }
 
