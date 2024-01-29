@@ -19,6 +19,8 @@ function Person() {
 
       console.log("modificado")
 
+      console.log("modificsado 1.1")
+
 }
 
 
