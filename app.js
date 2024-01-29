@@ -21,7 +21,7 @@ function Person() {
 
       console.log("modificsado 1.1")
 
-      console.log("feature 0001")
+      console.log("feature 1")
 
 }
 
