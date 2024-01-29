@@ -23,6 +23,9 @@ function Person() {
 
       console.log("feature 0001")
 
+      console.log("feature 0002")
+
+
 }
 
 
