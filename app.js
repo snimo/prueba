@@ -27,6 +27,8 @@ function Person() {
 
       console.log("3111")
 
+      console.log("mandar a la otra ")
+
 
 }
 
