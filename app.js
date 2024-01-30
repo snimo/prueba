@@ -37,6 +37,8 @@ function Person() {
 
       console.log("feature 4.1")
 
+      console.log("feature 4.2")
+
 }
 
 
