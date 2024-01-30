@@ -31,6 +31,7 @@ function Person() {
 
       console.log("tomando un cafe")
 
+      console.log("otro comentario")
 
 }
 
