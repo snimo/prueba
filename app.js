@@ -23,6 +23,8 @@ function Person() {
 
       console.log("feature 0001")
 
+      console.log("nueva feature en develope")
+
 }
 
 
