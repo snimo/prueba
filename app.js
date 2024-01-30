@@ -21,6 +21,19 @@ function Person() {
 
       console.log("modificsado 1.1")
 
+      console.log("feature 1")
+
+      console.log("feature 0002")
+
+      console.log("3111")
+
+      console.log("mandar a la otra ")
+
+      console.log("tomando un cafe")
+
+
+      console.log("nueva feature en develope")
+
 }
 
 
