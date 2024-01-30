@@ -1,5 +1,7 @@
 
 function Person() {
+
+      console.log("new")
   
       console.log("juana de arco");
 
