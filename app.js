@@ -43,6 +43,8 @@ function Person() {
 
       // feature 6
 
+      // feature 7
+
 }
 
 
