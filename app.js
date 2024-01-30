@@ -21,8 +21,6 @@ function Person() {
 
       console.log("modificsado 1.1")
 
-      console.log("otro comentario")
-
 }
 
 
