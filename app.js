@@ -1,7 +1,7 @@
 
 function Person() {
 
-      console.log("new 123456")
+      console.log("new 123456789")
   
       console.log("juana de arco");
 
